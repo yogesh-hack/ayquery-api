@@ -18,6 +18,8 @@
     "jsonwebtoken": "^9.0.2",
     "mongoose": "^6.0.12",
     "nodemailer": "^7.0.2",
-    "nodemon": "^2.0.14"
+    "nodemon": "^2.0.14",
+    "razorpay": "^2.9.6",
+    "socket.io": "^4.8.1"
   }
 }
